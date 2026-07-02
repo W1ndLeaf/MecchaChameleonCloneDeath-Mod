@@ -61,7 +61,3 @@ NoDecoyDeath-Installer.zip          ready-to-run build (installer .exe + UE4SS +
 ## Uninstall
 
 Run `Uninstall NoDecoyDeath.exe` from the same zip, or delete `dwmapi.dll` and the `ue4ss/` folder from the game's `Binaries/Win64` directory (or Steam → Properties → Installed Files → Verify integrity of game files).
-
-## License
-
-All rights reserved. This source is published for transparency so you can verify what the mod does before running it — it is not licensed for reuse, modification, or redistribution. See [LICENSE](LICENSE).
