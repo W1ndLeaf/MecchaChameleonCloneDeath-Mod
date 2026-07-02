@@ -1,0 +1,22 @@
+# Claude Code
+.claude/
+CLAUDE.local.md
+
+# BMAD-METHOD
+.bmad-core/
+.bmad-infrastructure-devops/
+web-bundles/
+.ai/
+
+# build output
+bin/
+obj/
+*.pdb
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
