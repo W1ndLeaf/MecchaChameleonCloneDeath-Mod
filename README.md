@@ -6,6 +6,10 @@ In [MECCHA CHAMELEON](https://store.steampowered.com/app/2995940/) (dev: Penguin
 
 This repo exists so anyone — not just people who trust a random download — can read exactly what the mod does before running it. There's no compiled-and-hidden logic here: the entire fix is [one Lua file](mod/NoDecoyDeath/Scripts/main.lua), about 170 lines, and the installer is a small C# program you can read start to finish in a couple of minutes.
 
+## Takedown requests
+
+This is an unofficial fan project, not affiliated with, authorized, or endorsed by PenguinHotel. **If you are the developer (or represent them) and want this mod changed or taken down, [open an issue](https://github.com/W1ndLeaf/MecchaChameleonCloneDeath-Mod/issues/new) and it will be removed within 24 hours.**
+
 ## Install
 
 1. Download [`NoDecoyDeath-Installer.zip`](NoDecoyDeath-Installer.zip) from this repo and unzip it.
