@@ -37,7 +37,7 @@ The rest of the file is UI: an on-screen toggle indicator (a small `UserWidget` 
 - **No credential or file access.** It doesn't read your Steam session, browser data, or any file outside the game's own UE4SS log.
 - **Host-only, no advantage over other players.** It only changes what happens on the machine hosting the match, and only for decoy hits specifically — a direct body shot still kills you.
 - **The installer just copies files.** Read [`installer/Install.cs`](installer/Install.cs) — it locates your Steam library, copies the mod payload, and edits `mods.txt` to enable it. Nothing else.
-- **Made with the developer's permission.** PenguinHotel gave permission to build and share this mod for free.
+- **Unofficial fan mod.** Not affiliated with, authorized, or endorsed by PenguinHotel.
 
 ## Source layout
 
